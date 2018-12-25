@@ -1,8 +1,12 @@
 {
   "name": "recursiveretry",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.4",
+  "description": "Recursive retry for request",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kintuda/requestRetry.git"
+  },
   "keywords": [
     "retry","request","recursive"
   ],
